@@ -7,5 +7,13 @@
 1. 주요 거시 경제 지표 선택
 2. 시점 선택
 
+## 예시
+
+<p align>
+<p align="center">
+<img src= "https://github.com/jmlee8939/macroeconomics_analysis/blob/main/output2.png?raw=true" width = 500 height = 400>
+</p>
+
+
 ## Reference
 [KOSIS 경기 순환시계](https://kosis.kr/visual/bcc/index/index.do?mb=N)
